@@ -1,0 +1,10 @@
+﻿<animation>
+	<image extension="png">
+		<mode>spritesheet</mode>
+		<file>images\\peon\\peon_W.png</file>
+		<count>5</count>
+		<perrow>5</perrow>
+		<rows>0</rows>
+		<cols>0</cols>
+	</image>
+</animation>

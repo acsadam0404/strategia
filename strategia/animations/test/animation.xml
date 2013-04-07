@@ -1,0 +1,18 @@
+﻿<animation>
+	<image extension="png">
+		<mode>sprite</mode>
+		<file>images\\test\\archer.png</file>
+		<width>40</width>
+		<height>40</height>
+		<posx>120</posx>
+		<posy>230</posy>
+	</image>
+	<image extension="png">
+		<mode>spritesheet</mode>
+		<file>images\\test\\archeranimation.png</file>
+		<count>3</count>
+		<perrow>3</perrow>
+		<rows>0</rows>
+		<cols>0</cols>
+	</image>
+</animation>
